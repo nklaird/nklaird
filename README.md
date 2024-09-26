@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hi, I'm Nick! 🧑‍💻
 
+I am a Computer Sciecne student with Software Engineering Concentration studying at the University of Illinois at Chicago expecting to graduate in May 2027 🏫
 <!--
 **nklaird/nklaird** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
